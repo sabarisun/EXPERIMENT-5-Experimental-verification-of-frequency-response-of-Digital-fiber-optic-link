@@ -1,5 +1,9 @@
 
+# Reg. No: 212222060205
+# Name: Sabarisun S
+
 Exp 5 Experimental verification of frequency response of Digital fiber optic link
+
 # Digital Fiber Optic Link Analysis (600nm)
 
 ## AIM
@@ -53,25 +57,26 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 ## CONNECTION DIAGRAM  
 **Setting up a Digital Link**
 
-*(Insert connection diagram here)*
+![WhatsApp Image 2025-11-17 at 17 02 21_141772cf](https://github.com/user-attachments/assets/17e7ca1f-287e-438e-afe4-21c84d5c1e03)
+
 
 ---
 
 ## TABULATION  
 **Transmission through Digital Link**
+![WhatsApp Image 2025-11-17 at 17 03 09_0637ef60](https://github.com/user-attachments/assets/44f00407-be73-4f15-9a03-bbb94b93532f)
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+![WhatsApp Image 2025-11-17 at 17 04 01_8b9c2fbd](https://github.com/user-attachments/assets/2ffdc398-3dc5-4c19-9f03-9a473795a2f9)
+
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+![WhatsApp Image 2025-11-17 at 17 02 42_b2b181e5](https://github.com/user-attachments/assets/41162489-edfe-4dfb-a601-e6f33156bdda)
+
